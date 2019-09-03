@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to top left, #996633 0%, #ffffff 100%);
+}
+
+img {
+    float: left;
+    width: 11.5em;
+    height: 11.5em;
+    border-radius: 50%;
+}
